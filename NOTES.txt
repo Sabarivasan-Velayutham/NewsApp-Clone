@@ -1,0 +1,11 @@
+
+react-native-tab-view 
+    used for horizontal swiping of pages 
+    see in net 
+
+
+PROBLEM FACED AND SOLUTION : 
+problem in installing axios and uing it ... so i downloaded a degraded version of it 
+
+PROBLEMS 
+    usage of icons 
